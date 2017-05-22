@@ -4,7 +4,14 @@ import (
 	"fmt"
 	"bytes"
 )
+/**
+ * RESULT
 
+Hello, World!
+Hello
+Hello, World!
+
+ */
 func main() {
 	fmt.Println("Hello" + "," + " World" + "!")
 
